@@ -44,6 +44,8 @@ Script that reads in files listed above, calculates CAP from spectromotometric r
 ### Order of the Mass and Spectrophotometer Data
 R reads in the spectrophotometer triplicate data starting in line 37 in the following order: 
 
+![PCycle](https://github.com/user-attachments/assets/afc886f9-84f1-40cc-a67c-0a884ea6e085)
+
 
 The mass data excel files need to be in order from sample #1-24, where samples #1-12 are from the spectrophotometer data C1:E12, and samples #13-24 are from F1:H12. 
 
