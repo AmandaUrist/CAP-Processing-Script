@@ -1,6 +1,5 @@
 # CAP Processeing Script
 
-## Files
 Script to calculate CAP from mass data and spectrophometric readings (Urist et al., 2024)
 
 To run the script you will need the following files:
