@@ -41,6 +41,12 @@ A file with reading from spectrophotometer.
 
 Script that reads in files listed above, calculates CAP from spectromotometric readings and digested carbonate masses after NaCl rinses. 
 
+### Order of the Mass and Spectrophotometer Data
+R reads in the spectrophotometer triplicate data starting in line 37 in the following order: 
+
+
+The mass data excel files need to be in order from sample #1-24, where samples #1-12 are from the spectrophotometer data C1:E12, and samples #13-24 are from F1:H12. 
+
 ## Liscense
 You can freely use and modify the code, without warranty, so long as you provide attribution to the authors.
 
