@@ -31,7 +31,6 @@ samplenames <- colnames(dissolved.frame)
 
 #Extract the fraction dissolved data and volume of solution in falcon tube if less than 3 ml (will be NA if 3 ml)
 fraction_dissolved <- as.numeric(dissolved[2, ])
-total_volume<- as.numeric(dissolved[3, ])
 
 #Reading in wells and assigning the triplicate readings
 row1 <- list(spectro.frame[3,2], spectro.frame[3,3], spectro.frame[3,4],spectro.frame[3,5],
