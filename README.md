@@ -52,4 +52,4 @@ The mass data excel files need to be in order from sample #1-24, where samples #
 ## Liscense
 You can freely use and modify the code, without warranty, so long as you provide attribution to the authors.
 
-The manuscript text is not open source. The authors reserve the rights to the article content, which is currently submitted for publication in the JOURNAL NAME.
+The manuscript text is not open source. The authors reserve the rights to the article content, which is being submitted for publication in PNAS.
