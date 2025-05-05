@@ -44,7 +44,7 @@ Script that reads in files listed above, calculates CAP from spectrophotometer r
 ### Order of the Mass and Spectrophotometer Data
 R reads in the spectrophotometer triplicate data starting in line 37 in the following order: 
 
-![Image](https://github.com/user-attachments/assets/642a2934-4ad0-4ef5-ac23-214e4602cdc0)
+![Image](https://github.com/AmandaUrist/CAP-Processing-Script/blob/main/CAP_plate_setup_NaCl.png)
 
 
 The mass data excel files need to be in order from sample #1-24, where samples #1-12 are from the spectrophotometer data C1:E12, and samples #13-24 are from F1:H12. 
