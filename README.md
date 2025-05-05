@@ -17,7 +17,7 @@ A file with reading from spectrophotometer.
         - Milli-Q Water blanks are A8:10
         - Triplicate sample absorbances are split between each column and rows C-E and F-H 
 
-#### 3) CAP Calculation R Script - Base.Fluro.Reading.R
+#### 3) CAP Calculation R Script - Base.Reading.R
 
 Script that reads in files listed above, calculates CAP from spectrophotometer reading and digested carbonate masses. 
 
@@ -37,7 +37,7 @@ A file with reading from spectrophotometer.
         - NaCl blanks are B8:B10
         - Triplicate sample absorbances are split between each column and rows C-E and F-H 
 
-#### 6) NaCl CAP Calculation R Script - Base.Fluro.NaCl.Reading.R
+#### 6) NaCl CAP Calculation R Script - Base.NaCl.Reading.R
 
 Script that reads in files listed above, calculates CAP from spectrophotometer reading and digested carbonate masses after NaCl rinses. 
 
